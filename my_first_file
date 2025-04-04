@@ -2,3 +2,7 @@ int a = 12;
 int b = 11;
 int result = a + b;
 console.writeline(result);
+int c = 43;
+int d = 32;
+int result = c-d;
+console.writeline(rresult);
