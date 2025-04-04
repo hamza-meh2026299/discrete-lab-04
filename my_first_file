@@ -6,3 +6,7 @@ int c = 43;
 int d = 32;
 int result = c-d;
 console.writeline(rresult);
+int h = 21;
+int m = 32;
+int result = h*m;
+console.writeline(result);
